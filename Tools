@@ -1,0 +1,6 @@
+To do this home automation by your own make sure you have created an id in adafruit.io as well as in IFTTT.
+At first in adafruit.io you have to create a feed for relays and then you have to generate a adafruit key from there.
+Then you have to link your google assistant to ifttt and adafruit.io also.
+Then place then adafuit key in the code and upload that on your nodemcu.
+/*____________________________________BOOM_______________________________________*/
+                     Now you good to go....😎🙌🙌
