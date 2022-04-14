@@ -8,17 +8,17 @@
 #define Relay3            D2
 #define Relay4            D1
 
-#define WLAN_SSID       "RN9P"                                                 // Your SSID
-#define WLAN_PASS       "12345678"                                             // Your password
+#define WLAN_SSID       "****"                                                 // Your SSID
+#define WLAN_PASS       "*******"                                             // Your password
 
-                                                                               //Adafruit.io Setup 
+/*_______________________________________Adafruit.io Setup_______________________________________*/ 
 
 #define AIO_SERVER      "io.adafruit.com"
-#define AIO_SERVERPORT  1883                                                  // use 8883 for SSL
-#define AIO_USERNAME    "Nishit0072_e"                                        // Replace it with your username
-#define AIO_KEY         "aio_KPLr46o7DSRIP8fhFAH4o5DbZbg9"                    // Replace with your Project Auth Key
+#define AIO_SERVERPORT  1883                                                     // use 8883 for SSL
+#define AIO_USERNAME    "*************"                                         // Replace it with your username
+#define AIO_KEY         "*********************************"                    // Replace with your Project Auth Key
 
-                                                                              //Global State (you don't need to change this!) 
+/*_______________________________Global State (you don't need to change this!)_______________________________________*/ 
 
 // Create an ESP8266 WiFiClient class to connect to the MQTT server.
 WiFiClient client;
